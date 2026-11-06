@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" role="img" aria-labelledby="title desc">
+<title id="title">Avatar ilustrado de Claudia com gato e hamster</title>
+<desc id="desc">Ilustração original em tons pastel de lilás, creme e rosa.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0eafb"/><stop offset="1" stop-color="#fbf0f5"/></linearGradient>
+  <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8d2e1"/><stop offset="1" stop-color="#b7adc8"/></linearGradient>
+  <linearGradient id="lav" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cbef"/><stop offset="1" stop-color="#b69ad7"/></linearGradient>
+</defs>
+
+<rect width="700" height="600" rx="80" fill="url(#bg)"/>
+<circle cx="350" cy="300" r="245" fill="#f9edf4"/>
+<path d="M95 410 Q125 250 220 210 Q330 115 455 210 Q565 270 590 420 L590 600 L95 600Z" fill="#e7d9f4" opacity=".75"/>
+<!-- hair behind head -->
+<path d="M190 250 Q155 95 320 82 Q480 75 515 225 L535 425 Q490 470 455 415 L220 440 Q170 380 190 250Z" fill="#5c403f"/>
+<!-- neck and sweater -->
+<path d="M300 385 L300 440 Q245 450 205 485 L170 600 L530 600 L490 485 Q445 450 390 440 L390 385Z" fill="#b99cdb"/>
+<path d="M290 430 Q345 475 402 430 L420 462 Q355 510 270 462Z" fill="#d9c5ed"/>
+<!-- face -->
+<ellipse cx="350" cy="270" rx="132" ry="157" fill="#f6cbb8"/>
+<path d="M218 250 Q190 110 320 95 Q460 80 488 220 Q445 160 405 154 Q325 180 245 151Z" fill="#5c403f"/>
+<path d="M220 250 Q195 315 225 375 Q185 340 185 275Z" fill="#5c403f"/>
+<path d="M470 230 Q500 300 468 380 Q510 342 505 275Z" fill="#5c403f"/>
+<!-- fringe -->
+<path d="M220 220 Q240 115 333 125 Q390 112 444 153 Q405 147 378 183 Q324 157 280 211 Q251 235 220 220Z" fill="#684745"/>
+<!-- eyes and cheeks -->
+<ellipse cx="298" cy="275" rx="12" ry="17" fill="#4a3744"/>
+<ellipse cx="398" cy="275" rx="12" ry="17" fill="#4a3744"/>
+<circle cx="302" cy="269" r="4" fill="#fff"/>
+<circle cx="402" cy="269" r="4" fill="#fff"/>
+<ellipse cx="265" cy="310" rx="23" ry="11" fill="#e99eaa" opacity=".45"/>
+<ellipse cx="428" cy="310" rx="23" ry="11" fill="#e99eaa" opacity=".45"/>
+<path d="M330 320 Q350 336 370 319" fill="none" stroke="#a85f75" stroke-width="5" stroke-linecap="round"/>
+<path d="M340 348 Q354 362 370 347" fill="none" stroke="#a85f75" stroke-width="4" stroke-linecap="round"/>
+<!-- hair flower -->
+<g transform="translate(454 218)" fill="#f4c9d8"><ellipse cy="-15" rx="12" ry="19"/><ellipse cy="15" rx="12" ry="19"/><ellipse cx="-15" rx="19" ry="12"/><ellipse cx="15" rx="19" ry="12"/><circle r="8" fill="#e6b96e"/></g>
+<!-- cat -->
+<g transform="translate(100 385)">
+  <path d="M22 70 L20 10 L65 37 Q100 15 135 37 L180 10 L178 75 Q190 150 100 155 Q12 150 22 70Z" fill="url(#fur)" stroke="#a59ab6" stroke-width="4"/>
+  <ellipse cx="100" cy="90" rx="68" ry="61" fill="#e6e0eb"/>
+  <path d="M54 80 Q70 70 82 83 M118 83 Q132 70 147 80" fill="none" stroke="#62566f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M92 98 L108 98 L100 106Z" fill="#c78d9f"/>
+  <path d="M100 106 Q91 119 81 111 M100 106 Q110 119 120 111" fill="none" stroke="#8b7289" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 105 L5 98 M42 115 L5 120 M158 105 L195 98 M158 115 L195 120" stroke="#9b8fa7" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M70 47 L85 62 M130 47 L115 62" stroke="#9f91b0" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- hamster -->
+<g transform="translate(440 435)">
+  <ellipse cx="80" cy="75" rx="76" ry="67" fill="#d9a87f"/>
+  <ellipse cx="80" cy="89" rx="48" ry="43" fill="#f8e7d5"/>
+  <circle cx="43" cy="31" r="22" fill="#c88d69"/><circle cx="117" cy="31" r="22" fill="#c88d69"/>
+  <circle cx="43" cy="31" r="11" fill="#f2c7c5"/><circle cx="117" cy="31" r="11" fill="#f2c7c5"/>
+  <circle cx="60" cy="68" r="5" fill="#49383b"/><circle cx="101" cy="68" r="5" fill="#49383b"/>
+  <ellipse cx="80" cy="84" rx="8" ry="6" fill="#b97887"/>
+  <path d="M72 96 Q80 104 89 96" fill="none" stroke="#9a6675" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="49" cy="84" rx="13" ry="8" fill="#eaa6ad" opacity=".65"/><ellipse cx="111" cy="84" rx="13" ry="8" fill="#eaa6ad" opacity=".65"/>
+</g>
+<!-- decorative stars -->
+<g fill="#b59bd5" font-family="Georgia" font-size="35"><text x="85" y="130">✧</text><text x="550" y="160">✿</text><text x="560" y="370">♡</text></g>
+<g fill="#e1b0c7"><circle cx="155" cy="200" r="5"/><circle cx="540" cy="255" r="6"/><circle cx="390" cy="520" r="5"/></g>
+
+</svg>

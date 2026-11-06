@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" role="img" aria-labelledby="title desc">
+<title id="title">Composição de flores pastel</title>
+<desc id="desc">Ilustração original em tons pastel de lilás, creme e rosa.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0eafb"/><stop offset="1" stop-color="#fbf0f5"/></linearGradient>
+  <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8d2e1"/><stop offset="1" stop-color="#b7adc8"/></linearGradient>
+  <linearGradient id="lav" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cbef"/><stop offset="1" stop-color="#b69ad7"/></linearGradient>
+</defs>
+
+<rect width="700" height="600" rx="42" fill="#fbf3f7"/>
+<circle cx="350" cy="300" r="215" fill="#f4eafa"/>
+<g transform="translate(230 260)"><path d="M0 130 Q5 15 0 -45" stroke="#91b89b" stroke-width="8" fill="none" stroke-linecap="round"/><path d="M0 65 Q-70 20 -80 45 Q-55 95 0 85" fill="#bdd8c0"/><path d="M0 100 Q60 55 78 78 Q55 125 0 118" fill="#c9dfca"/><g fill="#e7b4ca"><ellipse cy="-70" rx="25" ry="42"/><ellipse cy="0" rx="25" ry="42"/><ellipse cx="-35" cy="-35" rx="42" ry="25"/><ellipse cx="35" cy="-35" rx="42" ry="25"/><circle cy="-35" r="19" fill="#e7c66f"/></g></g>
+<g transform="translate(430 340) scale(.85)"><path d="M0 130 Q5 15 0 -45" stroke="#91b89b" stroke-width="8" fill="none" stroke-linecap="round"/><path d="M0 65 Q-70 20 -80 45 Q-55 95 0 85" fill="#bdd8c0"/><path d="M0 100 Q60 55 78 78 Q55 125 0 118" fill="#c9dfca"/><g fill="#cbb7e6"><ellipse cy="-70" rx="25" ry="42"/><ellipse cy="0" rx="25" ry="42"/><ellipse cx="-35" cy="-35" rx="42" ry="25"/><ellipse cx="35" cy="-35" rx="42" ry="25"/><circle cy="-35" r="19" fill="#e7c66f"/></g></g>
+<g fill="#b89bd6" font-family="Georgia" font-size="36"><text x="115" y="140">✧</text><text x="540" y="160">♡</text></g>
+
+</svg>

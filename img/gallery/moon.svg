@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" role="img" aria-labelledby="title desc">
+<title id="title">Lua e estrelas lilases</title>
+<desc id="desc">Ilustração original em tons pastel de lilás, creme e rosa.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0eafb"/><stop offset="1" stop-color="#fbf0f5"/></linearGradient>
+  <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8d2e1"/><stop offset="1" stop-color="#b7adc8"/></linearGradient>
+  <linearGradient id="lav" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cbef"/><stop offset="1" stop-color="#b69ad7"/></linearGradient>
+</defs>
+
+<rect width="700" height="600" rx="42" fill="#eee8fa"/>
+<circle cx="350" cy="300" r="215" fill="#e0d3f1"/>
+<circle cx="320" cy="280" r="115" fill="#fff5e8"/>
+<circle cx="370" cy="245" r="105" fill="#e0d3f1"/>
+<g fill="#fffafc"><path d="M180 170 l8 20 20 8 -20 8 -8 20 -8 -20 -20 -8 20 -8Z"/><path d="M500 210 l6 15 15 6 -15 6 -6 15 -6 -15 -15 -6 15 -6Z"/><path d="M475 390 l7 17 17 7 -17 7 -7 17 -7 -17 -17 -7 17 -7Z"/><circle cx="230" cy="390" r="5"/><circle cx="480" cy="140" r="5"/><circle cx="250" cy="245" r="4"/></g>
+<g fill="#b39bd5" font-family="Georgia" font-size="35"><text x="130" y="310">✧</text><text x="520" y="315">♡</text></g>
+
+</svg>

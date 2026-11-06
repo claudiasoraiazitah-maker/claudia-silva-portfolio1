@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" role="img" aria-labelledby="title desc">
+<title id="title">Gato e hamster juntos</title>
+<desc id="desc">Ilustração original em tons pastel de lilás, creme e rosa.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0eafb"/><stop offset="1" stop-color="#fbf0f5"/></linearGradient>
+  <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8d2e1"/><stop offset="1" stop-color="#b7adc8"/></linearGradient>
+  <linearGradient id="lav" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cbef"/><stop offset="1" stop-color="#b69ad7"/></linearGradient>
+</defs>
+
+<rect width="700" height="600" rx="42" fill="#f5eefb"/>
+<circle cx="350" cy="300" r="230" fill="#f9edf3"/>
+<!-- leaves -->
+<g stroke="#a7c4ad" stroke-width="5" fill="#cfe1d0"><path d="M100 470 Q150 380 195 350 Q180 425 100 470Z"/><path d="M590 465 Q540 375 500 350 Q515 425 590 465Z"/></g>
+<!-- cat -->
+<g transform="translate(130 220)">
+<path d="M20 85 L10 15 L60 45 Q95 25 130 45 L180 15 L170 90 Q180 165 95 168 Q10 165 20 85Z" fill="#c9c0d6" stroke="#a69ab8" stroke-width="4"/>
+<ellipse cx="95" cy="103" rx="65" ry="57" fill="#e9e2ef"/>
+<circle cx="72" cy="95" r="5" fill="#514459"/><circle cx="118" cy="95" r="5" fill="#514459"/><path d="M87 110 h16 l-8 8Z" fill="#c78fa5"/><path d="M95 118 q-10 10 -18 0 M95 118 q10 10 18 0" fill="none" stroke="#8d718a" stroke-width="3" stroke-linecap="round"/>
+</g>
+<!-- hamster -->
+<g transform="translate(390 330)">
+<ellipse cx="75" cy="65" rx="82" ry="72" fill="#d6a27b"/>
+<ellipse cx="75" cy="80" rx="52" ry="46" fill="#f7e7d7"/>
+<circle cx="34" cy="20" r="24" fill="#c58c68"/><circle cx="116" cy="20" r="24" fill="#c58c68"/>
+<circle cx="34" cy="20" r="12" fill="#f3c9c5"/><circle cx="116" cy="20" r="12" fill="#f3c9c5"/>
+<circle cx="54" cy="62" r="5" fill="#49383b"/><circle cx="96" cy="62" r="5" fill="#49383b"/><ellipse cx="75" cy="77" rx="8" ry="6" fill="#b97887"/>
+<path d="M67 88 Q75 98 84 88" fill="none" stroke="#9a6675" stroke-width="3" stroke-linecap="round"/>
+</g>
+<g fill="#d6a6c0" font-family="Georgia" font-size="36"><text x="110" y="140">♡</text><text x="540" y="170">✧</text></g>
+
+</svg>

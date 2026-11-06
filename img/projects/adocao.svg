@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" role="img" aria-labelledby="title desc">
+<title id="title">Conceito fictício de adoção responsável</title>
+<desc id="desc">Ilustração original em tons pastel de lilás, creme e rosa.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0eafb"/><stop offset="1" stop-color="#fbf0f5"/></linearGradient>
+  <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8d2e1"/><stop offset="1" stop-color="#b7adc8"/></linearGradient>
+  <linearGradient id="lav" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cbef"/><stop offset="1" stop-color="#b69ad7"/></linearGradient>
+</defs>
+
+<rect width="700" height="600" rx="42" fill="#f8eef5"/>
+<circle cx="130" cy="110" r="70" fill="#e8dcf6"/><circle cx="585" cy="475" r="90" fill="#f6dfe9"/>
+<text x="350" y="100" text-anchor="middle" fill="#6e588d" font-family="Georgia" font-size="34">Patas com Amor</text>
+<text x="350" y="136" text-anchor="middle" fill="#9a83ad" font-family="Arial" font-size="16">cada patinha merece um lar</text>
+<rect x="85" y="175" width="530" height="320" rx="26" fill="#fffdfd" stroke="#e4d7ef" stroke-width="3"/>
+<!-- cat one -->
+<g transform="translate(145 230)">
+<path d="M25 72 L17 10 L63 36 Q95 18 127 36 L173 10 L165 77 Q176 148 95 151 Q14 148 25 72Z" fill="#c9c0d6" stroke="#a69ab8" stroke-width="4"/>
+<ellipse cx="95" cy="91" rx="62" ry="55" fill="#e9e2ef"/>
+<circle cx="73" cy="83" r="5" fill="#514459"/><circle cx="116" cy="83" r="5" fill="#514459"/><path d="M87 98 h16 l-8 8Z" fill="#c78fa5"/><path d="M95 106 q-10 10 -18 0 M95 106 q10 10 18 0" fill="none" stroke="#8d718a" stroke-width="3" stroke-linecap="round"/>
+</g>
+<!-- cat two -->
+<g transform="translate(370 235)">
+<path d="M25 72 L17 10 L63 36 Q95 18 127 36 L173 10 L165 77 Q176 148 95 151 Q14 148 25 72Z" fill="#d7a47e" stroke="#b88768" stroke-width="4"/>
+<ellipse cx="95" cy="91" rx="62" ry="55" fill="#f6e3d4"/>
+<circle cx="73" cy="83" r="5" fill="#514459"/><circle cx="116" cy="83" r="5" fill="#514459"/><path d="M87 98 h16 l-8 8Z" fill="#c78fa5"/><path d="M95 106 q-10 10 -18 0 M95 106 q10 10 18 0" fill="none" stroke="#8d718a" stroke-width="3" stroke-linecap="round"/>
+</g>
+<path d="M317 195 C285 165 250 210 317 248 C384 210 349 165 317 195Z" fill="#dba5bf"/>
+<text x="350" y="535" text-anchor="middle" fill="#775e9c" font-family="Georgia" font-size="22">adotar é abrir o coração</text>
+
+</svg>

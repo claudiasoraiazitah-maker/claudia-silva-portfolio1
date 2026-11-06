@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" role="img" aria-labelledby="title desc">
+<title id="title">Gato ilustrado entre flores</title>
+<desc id="desc">Ilustração original em tons pastel de lilás, creme e rosa.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0eafb"/><stop offset="1" stop-color="#fbf0f5"/></linearGradient>
+  <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8d2e1"/><stop offset="1" stop-color="#b7adc8"/></linearGradient>
+  <linearGradient id="lav" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cbef"/><stop offset="1" stop-color="#b69ad7"/></linearGradient>
+</defs>
+
+<rect width="700" height="600" rx="42" fill="#f7f1fb"/>
+<circle cx="350" cy="310" r="215" fill="#f9eaf2"/>
+<g fill="#d9cbef" opacity=".8"><circle cx="120" cy="160" r="6"/><circle cx="555" cy="170" r="8"/><circle cx="570" cy="400" r="5"/></g>
+<!-- flowers -->
+<g transform="translate(130 405)" fill="#e7b7cc"><ellipse cy="-22" rx="13" ry="23"/><ellipse cy="22" rx="13" ry="23"/><ellipse cx="-22" rx="23" ry="13"/><ellipse cx="22" rx="23" ry="13"/><circle r="10" fill="#e9c77d"/></g>
+<g transform="translate(555 330)" fill="#c9b3e4"><ellipse cy="-20" rx="12" ry="21"/><ellipse cy="20" rx="12" ry="21"/><ellipse cx="-20" rx="21" ry="12"/><ellipse cx="20" rx="21" ry="12"/><circle r="9" fill="#f1d28d"/></g>
+<!-- cat -->
+<path d="M210 290 L190 145 L295 205 Q350 178 405 205 L510 145 L490 300 Q510 455 350 468 Q190 455 210 290Z" fill="url(#fur)" stroke="#a79bb9" stroke-width="5"/>
+<ellipse cx="350" cy="322" rx="120" ry="110" fill="#e9e2ef"/>
+<path d="M280 302 Q300 288 318 304 M382 304 Q400 288 420 302" fill="none" stroke="#62566f" stroke-width="6" stroke-linecap="round"/>
+<path d="M335 328 h30 l-15 14Z" fill="#c78d9f"/>
+<path d="M350 342 Q332 363 314 348 M350 342 Q368 363 386 348" fill="none" stroke="#8b7289" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="273" cy="342" rx="25" ry="13" fill="#e99eaa" opacity=".5"/><ellipse cx="427" cy="342" rx="25" ry="13" fill="#e99eaa" opacity=".5"/>
+<path d="M305 220 L329 255 M395 255 L420 220" stroke="#a99bb8" stroke-width="7" stroke-linecap="round"/>
+<g fill="#b99bd8" font-family="Georgia" font-size="35"><text x="250" y="115">✧</text><text x="430" y="130">♡</text></g>
+
+</svg>

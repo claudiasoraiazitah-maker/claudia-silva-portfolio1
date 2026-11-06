@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 600" role="img" aria-labelledby="title desc">
+<title id="title">Conceito fictício de loja de animais</title>
+<desc id="desc">Ilustração original em tons pastel de lilás, creme e rosa.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0eafb"/><stop offset="1" stop-color="#fbf0f5"/></linearGradient>
+  <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8d2e1"/><stop offset="1" stop-color="#b7adc8"/></linearGradient>
+  <linearGradient id="lav" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cbef"/><stop offset="1" stop-color="#b69ad7"/></linearGradient>
+</defs>
+
+<rect width="700" height="600" rx="42" fill="#f4edf9"/>
+<circle cx="555" cy="100" r="65" fill="#f9e6ef"/>
+<rect x="85" y="110" width="530" height="400" rx="26" fill="#fffafc" stroke="#e4d7ef" stroke-width="4"/>
+<path d="M85 190 H615" stroke="#e4d7ef" stroke-width="4"/>
+<text x="125" y="160" fill="#775e9c" font-size="32" font-family="Georgia">pet &amp; co.</text>
+<circle cx="540" cy="150" r="18" fill="#d9cbef"/><path d="M532 150 h16 M540 142 v16" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+<!-- shelf -->
+<rect x="125" y="355" width="450" height="18" rx="9" fill="#d9c6e8"/>
+<rect x="145" y="260" width="85" height="90" rx="12" fill="#f7dce7"/><rect x="250" y="240" width="85" height="110" rx="12" fill="#dce9dc"/><rect x="355" y="270" width="85" height="80" rx="12" fill="#eee3fa"/><rect x="460" y="250" width="85" height="100" rx="12" fill="#f6e6ce"/>
+<g fill="#9c80bf"><circle cx="188" cy="291" r="19"/><circle cx="293" cy="275" r="20"/><circle cx="398" cy="300" r="18"/><circle cx="503" cy="280" r="20"/></g>
+<g fill="#fff"><path d="M177 290 q11 -16 22 0 q-11 15 -22 0"/><path d="M282 274 q11 -16 22 0 q-11 15 -22 0"/><path d="M387 299 q11 -16 22 0 q-11 15 -22 0"/><path d="M492 279 q11 -16 22 0 q-11 15 -22 0"/></g>
+<!-- cat -->
+<path d="M260 440 L248 385 L292 408 Q326 392 359 408 L403 385 L392 448 Q400 500 326 502 Q250 500 260 440Z" fill="#c8bdD7" stroke="#a69ab8" stroke-width="4"/>
+<ellipse cx="326" cy="451" rx="55" ry="43" fill="#e9e2ef"/>
+<circle cx="306" cy="440" r="5" fill="#4d4059"/><circle cx="346" cy="440" r="5" fill="#4d4059"/><path d="M319 454 l14 0 l-7 7Z" fill="#c78fa5"/>
+<path d="M326 461 q-10 10 -17 0 M326 461 q10 10 17 0" fill="none" stroke="#8d718a" stroke-width="3" stroke-linecap="round"/>
+<text x="350" y="555" text-anchor="middle" fill="#8a719e" font-family="Georgia" font-size="24">pequenos mimos, muito amor</text>
+
+</svg>
